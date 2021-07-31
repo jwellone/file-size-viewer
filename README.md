@@ -1,17 +1,23 @@
 # file-size-viewer(ver1.0.0)
-You can list the files in the Assets folder and check their size.
+Lists the files in the Assets folder and display their data size.
 
-# GET STARTED
+This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+
+
+## GET STARTED
 - Import the package.
-- "UniExtensions > Window > File Size Viewer" Choose.
+- "UniExtensions > Window > File Size Viewer" choose.
 - Press the load button to display the list.
 
 ![file-size-viewer](https://user-images.githubusercontent.com/85072161/127731842-3015489d-8e10-4610-999d-2a3ecf85c292.gif)
 
-# Author Info
-Created by Yasuhiko Usui
 
-facebook: https://www.facebook.com/Jwellone-Inc-110584057879884/
+## Authors
+**jwellone** Inc. [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/Jwellone-Inc-110584057879884/)
 
-# License
+Developer:
+- Yasuhiko Usui.
+
+
+## License
 This extension is under the [MIT License](https://github.com/jwellone/file-size-viewer/blob/main/LICENSE).
