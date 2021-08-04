@@ -1,5 +1,5 @@
 <p align="left"> 
-    <a href="https://github.com/jwellone/toolbar-extension/blob/main/LICENSE">
+    <a href="https://github.com/jwellone/file-size-viewer/blob/main/LICENSE">
         <img height="20" src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000&style=plastic">
     </a>
     <a href="https://github.com/jwellone">
