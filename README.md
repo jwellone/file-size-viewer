@@ -36,5 +36,3 @@ This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 ## Authors
 Developer:[Yasuhiko Usui.](https://github.com/UsuiYasuhiko-jw1)
 
-## License
-This extension is under the [MIT License](https://github.com/jwellone/file-size-viewer/blob/main/LICENSE).
