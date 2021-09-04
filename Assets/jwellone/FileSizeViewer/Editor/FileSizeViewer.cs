@@ -8,7 +8,7 @@ using UnityEditor;
 using UnityEngine.Profiling;
 using UObject = UnityEngine.Object;
 
-namespace UniExtensions.Editor
+namespace jwellone.Editor
 {
 	public class FileSizeViewer : EditorWindow
 	{
@@ -239,7 +239,7 @@ namespace UniExtensions.Editor
 		private Mask[] m_masks = new Mask[] { new Mask() };
 		private readonly Dictionary<string, AssetList> m_dicInfo = new Dictionary<string, AssetList>();
 
-		[MenuItem("UniExtensions/Window/File Size Viewer")]
+		[MenuItem("jwellone/Window/File Size Viewer")]
 		private static void Open()
 		{
 			var window = EditorWindow.GetWindow<FileSizeViewer>("FileSizeViewer");

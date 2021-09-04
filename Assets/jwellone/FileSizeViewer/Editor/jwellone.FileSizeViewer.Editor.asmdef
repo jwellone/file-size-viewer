@@ -1,6 +1,5 @@
 {
-    "name": "UniExtensions.FileSizeChecker",
-    "rootNamespace": "",
+    "name": "jwellone.FileSizeViewer.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
