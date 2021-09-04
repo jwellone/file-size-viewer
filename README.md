@@ -8,7 +8,7 @@
 # file-size-viewer
 Lists the files in the Assets folder and display their data size.
 
-This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 
 ## Getting Started
