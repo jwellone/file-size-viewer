@@ -13,7 +13,7 @@ This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 ## Getting Started
 - Import the package.
-- "UniExtensions > Window > File Size Viewer" choose.
+- "jwellone > Window > File Size Viewer" choose.
 - Press the load button to display the list.
 
 ![file-size-viewer](https://user-images.githubusercontent.com/85072161/127731842-3015489d-8e10-4610-999d-2a3ecf85c292.gif)
